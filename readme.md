@@ -38,4 +38,13 @@ Now run `yarn install` or `yarn postinstall` and you should be good to go.
 }
 ```
 
+## Credits
+
+I've used the following packages/files as inspiration when creating `link-workspaces`. You might see similarities in the code if you were to compare the files. All source code used and linked below is licensed under the MIT license.
+
+Much kudos to the authors of the original source:
+
+- [webiny/webiny-js/.../linkPackages.js](https://github.com/webiny/webiny-js/blob/da269089ebaf18cc00c43919688fc4a005314d72/packages/project-utils/packages/linkPackages.js)
+
+- [get-yarn-workspaces](https://github.com/viewstools/yarn-workspaces-cra-crna/blob/d349ecb223fda7ebca7e0686dc0472534780399c/get-yarn-workspaces/index.js)
 
