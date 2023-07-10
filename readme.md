@@ -18,9 +18,9 @@ Add `link-workspaces` to your postinstall:
 
 ```json
 {
-  "scripts": {
-    "postinstall": "link-workspaces"
-  }
+	"scripts": {
+		"postinstall": "link-workspaces"
+	}
 }
 ```
 
@@ -32,9 +32,9 @@ Now run `yarn install` or `yarn postinstall` and you should be good to go.
 
 ```json
 {
-  "scripts": {
-    "postinstall": "link-workspaces --silent"
-  }
+	"scripts": {
+		"postinstall": "link-workspaces --silent"
+	}
 }
 ```
 
@@ -47,4 +47,3 @@ Much kudos to the authors of the original source:
 - [webiny/webiny-js/.../linkPackages.js](https://github.com/webiny/webiny-js/blob/da269089ebaf18cc00c43919688fc4a005314d72/packages/project-utils/packages/linkPackages.js)
 
 - [get-yarn-workspaces](https://github.com/viewstools/yarn-workspaces-cra-crna/blob/d349ecb223fda7ebca7e0686dc0472534780399c/get-yarn-workspaces/index.js)
-

@@ -1,2 +1,1 @@
-
-test.skip('linkWorkspaces', async () => {});
+test.skip('linkWorkspaces', () => void 0);

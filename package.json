@@ -45,7 +45,7 @@
 		"ts-pattern": "^5.0.1"
 	},
 	"devDependencies": {
-		"@smeijer/eslint-config": "^1.0.2",
+		"@smeijer/eslint-config": "^1.2.0",
 		"@smeijer/tsconfig": "^1.0.0",
 		"@types/jest": "^29.5.2",
 		"jest": "^29.5.0",
